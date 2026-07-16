@@ -11,8 +11,10 @@ An AI-powered application designed to streamline the mock interview and resume o
 ## 🛠 Tech Stack
 * **Language:** Python
 * **Framework:** Streamlit
+* **AI Engine:** `Groq API` 
 * **LLM Integration:** LangChain
 
 ## 🌐 Live Demo
 Check out the live application here : (https://ai-resume-analyzer-1st-hackathon-zdf5veeczw8awqp5wcw57a.streamlit.app/)
+
 
